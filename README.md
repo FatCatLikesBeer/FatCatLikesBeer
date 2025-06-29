@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning JavaScript, Python, (fish) shell scripting, Swift, & how computers work. 
 - 💞️ I’m looking to collaborate on software that can successfully replace REKORDBOX, (ximian comes close, I gotta share my edits)
 - 📫 How to reach me: DM me here or tweet @itisbilly or @billlaaayyy.bsky.social
-- 📸 My profile pic is a closeup of a bbq chicken pizza I made a few years ago.
 
 <!---
 FatCatLikesBeer/FatCatLikesBeer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
